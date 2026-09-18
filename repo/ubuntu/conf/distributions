@@ -1,0 +1,5 @@
+Codename: resolute
+Architectures: amd64
+Components: main 
+Description: Diladele B.V. Online Repository for Squid 7.7 for Ubuntu 26.04 LTS
+SignWith: 5A7AF0DE
